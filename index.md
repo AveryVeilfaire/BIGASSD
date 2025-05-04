@@ -1,4 +1,13 @@
----
-title: Welcome to my blog
----
-somthing
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>My Web App</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Hello, World!</h1>
+        <button id="myButton">Click Me</button>
+        <p id="output"></p>
+        <script src="script.js"></script>
+    </body>
+    </html>
